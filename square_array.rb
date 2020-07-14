@@ -1,3 +1,6 @@
+array = [3,4,5]
+
 def square_array(array)
-  
-end
+  array.each do |array|
+    puts 
+e=
